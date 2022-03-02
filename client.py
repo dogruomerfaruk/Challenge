@@ -1,3 +1,6 @@
+# Source: https://github.com/ftexchange/ftx
+# I used this repo to use Ftx API and used many times before
+# Omer
 import time
 import urllib.parse
 from typing import Optional, Dict, Any, List

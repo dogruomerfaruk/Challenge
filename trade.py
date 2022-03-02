@@ -90,8 +90,6 @@ class Trade:
                     self._action = "sell"
                 else:
                     self._action = "buy"
-            else:
-                return {"error": "No such market" }
 
     def iceberg_order(self):
         '''
